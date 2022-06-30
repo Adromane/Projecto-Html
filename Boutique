@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style2.css">
+    <link rel="stylesheet" href="C:\Tetsuu\Coding\Html et Css\HTML & CSS\Groupe 11\Boutique en ligne\fontawesome-free-5.15.3-web\fontawesome-free-5.15.3-web/css/all.css">
+    <title>HOMMES</title> 
+
+</head>
+
+
+ 
+
+
+<body class="ST">
+
+    <div>
+
+        <!--Le bloc header-->
+        <div class="Entete">
+            <header class="Tete">
+                <nav class="Navigation">
+                    <h2 class="Logo">SPEEDSHOP<i class="fas fa-shopping-cart"></i></h2>
+                    <ul class="Debut">
+                        <li><a href="Acceuil.html">Acceuil</a><i class="fas fa-home"></i></li>
+                        <li><a href="Contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+            <div class="Droite">
+                <input type="search" id="Search" name="Search" placeholder="Recherche...">
+                <a class="S" href="#"><i class="fas fa-search"></i></a>
+            </div>
+        </div>
+
+
+        <h1><Marquee>HOMMES</Marquee></h1>
+
+
+                <div class="Okay">
+                        <div class="Obtention">
+                            <h1>OBTENEZ -70 DE RABAIS!</h1>
+                        </div>
+
+                        <div class="PUB">
+                            <h3><Marquee scrollamount="2" direction="down">VOTRE SATISFACTION,NOTRE OBJETIF!</Marquee></h3>
+                        </div>
+
+
+                            <div class="slider">
+                                <div class="slides">
+                                  <img src="Hommes/ALD.gif">
+                                  
+                                  
+                                </div>
+
+                            </div>
+
+
+                            <div class="centrer">
+                                <img src="Hommes/PST.jpg" alt="Pictures width= 50% height="400px" >
+                                <div class="info">  
+                                    AYONS LA CLASSE!
+                                </div>
+                            </div>
+                    <div class="Element"> <!--Le bloc des différents vetements-->
+                         <div class="HB"> <!--Les images des produits-->
+
+
+                            <div class="DEP">
+                                <img src="Hommes/p1.jpg" alt="veste" ">
+                                    <p class="DEP">Costume 3 pieces marron.</p>
+                                    <p class="DEP">80000fcfa</p>
+                                    <input type="submit" name="Ajouter" value="Ajouter au panier"class="DEEP">
+                                
+                            </div>
+
+                            <div class="EM">
+                                <img src="Hommes/p2.jpg" alt="veste" ">
+                                    <p class="EM">Costume 3 pieces violet.</p>
+                                    <p class="EM">68000fcfa</p>
+                                    <input type="submit" name="Ajouter" value="Ajouter au panier"class="EMD">
+                                
+                            </div>
+                            <div class="MI">
+                                <img src="Hommes/p3.jpg" alt="veste" ">
+                                    <p class="MI">Ensemble veste 2 pieces.</p>
+                                    <p class="MI">55000fcfa</p>
+                                    <input type="submit" name="Ajouter" value="Ajouter au panier"class="MID">
+                                
+                            </div>
+                            <div class="FIN">
+                                <img src="Hommes/p4.jpg" alt="veste" ">
+                                    <p class="FIN">Ensemble veste 2 pieces avec noeud papillon.</p>
+                                    <p class="FIN">60000fcfa</p>
+                                    <input type="submit" name="Ajouter" value="Ajouter au panier"class="FIND">
+                                
+                            </div>
+
+                        </div>
+                            <div class="leftright"> <!--Inserer un contenu de votre choix-->
+                                <div class="left"> <!--Inserer un contenu de votre choix-->
+                                    <div class="dx">
+                                       <img src="Hommes/A1.jpg" alt="">
+                                       <p class="dx">Tenue africaine from Cameroun.</p>
+                                       <p class="dx">65000fcfa</p>
+                                       <input type="submit" name="Ajouter" value="Ajouter au panier"class="dxd">
+                                    </div>      
+                                </div> 
+                    
+                                 <div class="right"> <!--Inserer un contenu de votre choix-->
+                                    <div class="pr">
+                                        <img src="Hommes/A2.jpg" alt="">
+                                        <p class="pr">Tenue africaine from Ghana.</p>
+                                        <p class="pr">75000fcfa</p>
+                                        <input type="submit" name="Ajouter" value="Ajouter au panier"class="prd">
+                                        
+                                    </div>
+                                 </div>
+
+                                <div class="Enonciation">
+                                           <h3> La meilleur qualité sur le marché.</h3>
+                                           <h3> La satisfacion de tout un chacun.</h3>
+
+                                        
+                                            <div class="jj">
+                                                  <img src="Hommes/Black.png" alt="">
+                                                  <p class="pr">Tenue africaine made in WAKANDA.</p>
+                                                  <p class="pr">100000fcfa</p>
+                                                  <input type="submit" name="Ajouter" value="Ajouter au panier"class="prd">
+                                            </div>                   
+                                              
+                                </div>
+                
+                                <div class="senga">
+                                    <h2><marquee bgcolor="red" style="color: white; font-family: 'Times New Roman', Times, serif" behavior="alternate" >La plus grande vente de SPEEDSHOP jamais débarquee</marquee></h2>
+                                </div>
+
+                                <div class="Element"> <!--Le bloc des différents vetements-->
+                                    <div class="JJB"> <!--Les images des produits-->
+
+                                        <div class="Hommes/P1">
+                                            <img src="Hommes/1.jpg" alt="veste" ">
+                                                <p class="P1">Jacket gris.</p>
+                                                <p class="P1">15000fcfa</p>
+                                                <input type="submit" name="Ajouter" value="Ajouter au panier"class="P1D">
+                                            
+                                        </div>
+
+                                        <div class="P2">
+                                            <img src="Hommes/2.jpg" alt="veste" ">
+                                                <p class="P2">Chemise avec careauc noir/gris.</p>
+                                                <p class="P2">10000fcfa</p>
+                                                <input type="submit" name="Ajouter" value="Ajouter au panier"class="P2D">
+                                            
+                                        </div>
+
+                                        <div class="P3">
+                                            <img src="Hommes/3.jpg" alt="veste" ">
+                                                <p class="P3">Pull Givenchy noir.</p>
+                                                <p class="P3">8000fcfa</p>
+                                                <input type="submit" name="Ajouter" value="Ajouter au panier"class="P3D">
+                                            
+                                        </div>
+
+                                        <div class="P4">
+                                            <img src="Hommes/4.jpg" alt="" ">
+                                                <p class="P4">Chemise Jeans bleue foncé.</p>
+                                                <p class="P4">20000fcfa</p>
+                                                <input type="submit" name="Ajouter" value="Ajouter au panier"class="P4D">
+                                            
+                                        </div>
+
+                                        <div class="P5">
+                                            <img src="Hommes/5.jpg" alt="v" ">
+                                                <p class="P5">Chemise Jeans bleue foncé.</p>
+                                                <p class="P5">20000fcfa</p>
+                                                <input type="submit" name="Ajouter" value="Ajouter au panier"class="P5D">
+                                            
+                                        </div>
+
+                                        
+
+                                    </div>
+                                </div>
+                                <div class="Outil"> <!--Le bloc des différents vetements-->
+                                    <div class="HB"> <!--Les images des produits-->
+
+                                        <div class="Hommes/P11">
+                                            <img src="11.jpg" alt="" ">
+                                                <p class="P11">Teesh-hirt addidas blanc&noir.</p>
+                                                <p class="P11">7500fcfa</p>
+                                                <input type="submit" name="Ajouter" value="Ajouter au panier"class="P11D">
+                                            
+                                        </div>
+
+                                        <div class="P12">
+                                            <img src="P12.jpg" alt="" ">
+                                                <p class="P12">Teesh-hirt Gucci Noir.</p>
+                                                <p class="P12">18000fcfa</p>
+                                                <input type="submit" name="Ajouter" value="Ajouter au panier"class="P12D">
+                                            
+                                        </div>
+
+                                        <div class="P13">
+                                            <img src="P13.jpg" alt="" ">
+                                                <p class="P13">Teesh-hirt  Polo Ralph bleue.</p>
+                                                <p class="P13">5000fcfa</p>
+                                                <input type="submit" name="Ajouter" value="Ajouter au panier"class="P13D">
+                                            
+                                        </div>
+
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                                
+                                    <hr>
+                                        <div class="Dac">
+                                          <h1>Soyons decontracter </h1>
+                                        </div>
+                                    </hr>
+                            <div  class="Deco">
+                                <div class="F1">
+                                     <img src="F2.jfif" alt="" ">
+                                       <p class="F1">Ensemble chemise cullote.</p>
+                                       <p class="F1">18000fcfa</p>
+                                       <input type="submit" name="Ajouter" value="Ajouter au panier"class="F1D">
+                                
+                                </div>
+
+                                <div class="F2">
+                                        <img src="F3.jfif" alt="" ">
+                                          <p class="F2">Ensemble Chemise Culotte.</p>
+                                          <p class="F2">20000fcfa</p>
+                                          <input type="submit" name="Ajouter" value="Ajouter au panier"class="FD">
+                                
+                                </div>
+
+                                <div class="F3">
+                                    <img src="F4.jpg" alt="" ">
+                                       <p class="F3">Ensemble plage.</p>
+                                       <p class="F3">20000fcfa</p>
+                                       <input type="submit" name="Ajouter" value="Ajouter au panier"class="F3D">
+                                
+                                </div>
+
+                                <div class="F4">
+                                    <img src="F5.jpg" alt="" ">
+                                       <p class="F4">Ensemble plage.</p>
+                                       <p class="F4">18000fcfa</p>
+                                       <input type="submit" name="Ajouter" value="Ajouter au panier"class="F4D">
+                                
+                                </div>
+
+                                <div class="F5">
+                                    <img src="F6.jpg" alt="" ">
+                                       <p class="F5">Ensemble GUCCI.</p>
+                                       <p class="F5">45000fcfa</p>
+                                       <input type="submit" name="Ajouter" value="Ajouter au panier"class="F5D">
+                                
+                                </div>
+                            </div>
+
+                            <div class="Page">           
+                                <button><a href="Ajouter Plus.html" class="Page" style="color: blue; font-family: 'Times New Roman', Times, serif" behavior="alternate" >VOIR PLUS</a></button>
+                            </div>
+
+                        <div class="logo">
+                            <div class="logo-content"> 
+                                <ul>
+                                      <li> <img src="AD.jpg" alt="logo" "></li>     
+                               
+                                        <li><img  src="Hu.jpg" alt=""></li>
+                                        <li> <img  src="Za.jpg" alt="zara"></li>
+                                        <li><img  src="nike.png" alt="zara"></li>
+                                        <li><img  src="TM.png" alt="zara"></li>
+                                        <li> <img src="HERM.jpg" alt=""></li>
+                                        <li> <img src="GG.jpg" alt=""></li>  
+                                
+                                </ul>    
+
+                            </div>  
+
+                        </div>
+                                
+
+                            
+                            
+
+                            
+                        </div>
+
+                        
+                    </div> 
+                        </div>
+
+                </div>
+    </div>            
+</body>
+</html>
