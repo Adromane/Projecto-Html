@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <title>Voir Plus</title>
+</head>
+<body  class="DB">
+ 
+
+    <div>
+
+        <!--Le bloc header-->
+        <div class="Entete">
+            <header class="Tete">
+                <nav class="Navigation">
+                    <h2 class="Logo">SPEEDSHOP<i class="fas fa-shopping-cart"></i></h2>
+                    <ul class="Debut">
+                        <li><a href="Acceuil.html">Acceuil</a><i class="fas fa-home"></i></li>
+                        <li><a href="Contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+            <div class="Droite">
+                <input type="search" id="Search" name="Search" placeholder="Recherche...">
+                <a class="S" href="#"><i class="fas fa-search"></i></a>
+            </div>
+        </div>
+
+        <div class="debuter">
+            <H1><marquee> Chaussures</marquee></H1>
+        </div>
+
+        <div  class="publi">
+            <div class="PU1">
+                 <img src="CHau2.jpg" alt="" ">
+                   <p class="PU1"  >Chaussure en cuire maron.</p>
+                   <p class="PU1">45000fcfa</p>
+                   <input type="submit" name="Ajouter" value="Ajouter au panier"class="PU1D">
+            
+            </div>
+
+            <div class="PU2">
+                <img src="CHAU.jpg" alt="" ">
+                  <p class="PU2"  >Chaussure en cuire noir.</p>
+                  <p class="PU2">45000fcfa</p>
+                  <input type="submit" name="Ajouter" value="Ajouter au panier"class="PU2D">
+           
+            </div>
+
+            <div class="PU3">
+              <img src="pu3.jpg" alt="" ">
+                <p class="PU3"> Sneakers bleue noire.</p>
+                <p class="PU3">18000fcfa</p>
+                <input type="submit" name="Ajouter" value="Ajouter au panier"class="PU3D">
+     
+            </div>
+
+            <div class="PU4">
+              <img src="pu4.jpg" alt="" ">
+                <p class="PU4">Air force.</p>
+                <p class="PU4">22000fcfa</p>
+                <input type="submit" name="Ajouter" value="Ajouter au panier"class="PU4D">
+       
+            </div>
+
+            <div class="PU5">
+                <img src="pu5.jpg" alt="" ">
+                  <p class="PU5">Ballerine Grise.</p>
+                  <p class="PU5">17500fcfa</p>
+                  <input type="submit" name="Ajouter" value="Ajouter au panier"class="PU5D">
+         
+            </div>
+
+            <div class="PU6">
+                <img src="PU6.jpg" alt="" ">
+                  <p class="PU6">Addidas Gazelle.</p>
+                  <p class="PU6">17500fcfa</p>
+                  <input type="submit" name="Ajouter" value="Ajouter au panier"class="PU6D">
+         
+            </div>
+
+        </div>
+
+        <div class="Acces">
+            <H1> AGISSEZ POUR VOS BESOINS </H1>
+            <div class="Cein">           
+                <button><a href="Ceintures.html" class="Page" style="color: blue; font-family: 'Times New Roman', Times, serif" behavior="alternate" >CEINTURES</a></button>
+            </div>
+            <div class="Cein">           
+                <button><a href="Pantalons.html" class="Page" style="color: blue; font-family: 'Times New Roman', Times, serif" behavior="alternate" >PANTALONS</a></button>
+            </div>
+        </div>
+
+
+        <div  class="CHEM">
+            <div class="M1">
+                 <img src="M1.jpeg" alt="" ">
+                   <p class="M1"  >Chemise GUCCI fleurie.</p>
+                   <p class="M1">24000fcfa</p>
+                   <input type="submit" name="Ajouter" value="Ajouter au panier"class="M1D">
+            
+            </div>
+            <div class="M2">
+                <img src="M2.jpg" alt="" ">
+                  <p class="M2"  >Chemise blanche zara.</p>
+                  <p class="M2">16000fcfa</p>
+                  <input type="submit" name="Ajouter" value="Ajouter au panier"class="M2D">
+           
+           </div>
+           <div class="M3">
+            <img src="M3.jpg" alt="" ">
+              <p class="M3"  >Chemise blanche zara.</p>
+              <p class="M3">16000fcfa</p>
+              <input type="submit" name="Ajouter" value="Ajouter au panier"class="M3D">
+       
+            </div>
+
+           <div class="M4">
+            <img src="M4.jpg" alt="" ">
+              <p class="M4"  >Chemise blanche zara.</p>
+              <p class="M4">16000fcfa</p>
+              <input type="submit" name="Ajouter" value="Ajouter au panier"class="M4D">
+       
+            </div>
+            
+             
+        </div>
+
+
+    </div>
+
+    
+   
+</body>
+</html>
