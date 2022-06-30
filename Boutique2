@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Stylesheet" href="Style.css">
+    <link rel="stylesheet" href="C:\Tetsuu\Coding\Html et Css\HTML & CSS\Groupe 11\Boutique en ligne\fontawesome-free-5.15.3-web\fontawesome-free-5.15.3-web/css/all.css">
+    <title>SPEEDSHOP</title>
+</head>
+
+
+
+
+<body class="Enfant">
+
+    <div>
+
+        <div class="Entete">
+            <header class="Tete">
+                <nav class="Navigation">
+                    <h2 class="Logo">SPEEDSHOP<i class="fas fa-shopping-cart"></i></h2>
+                    <ul class="Debut">
+                        <li><a href="Acceuil.html">Acceuil</a><i class="fas fa-home"></i></li>
+                        <li><a href="Contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+            <div class="Droite">
+                <input type="search" id="Search" name="Search" placeholder="Recherche...">
+                <a class="S" href="#"><i class="fas fa-search"></i></a>
+            </div>
+        </div>
+
+        <hr>
+        <hr>
+        <hr>
+        <hr>
+        <hr>
+        <hr>
+        <hr>
+        <hr>
+
+        <section class="CE">
+            <marquee><h1 class="EN">CHILDREN</h1></marquee>
+        </section>
+
+        <section class="Conteneur">
+
+            <div class="H1">
+                <img src="ENFANTS/H1.jpg" alt="Chemise" height="20%" width="50%">
+                <div class="H1Titre">
+                    <h3 class="Titre">Chemise pour enfant</h3>
+                    <h3 class="Prix"></h3>
+                    <div class="Panier">
+                        <a href="Ajouter au panier.html"><input type="submit" name="Ajouter" value="Ajouter au panier"class="ABAH"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="H1">
+                <img src="ENFANTS/E4.jpg" alt="Chemise" height="20%" width="50%">
+                <div class="H1Titre">
+                    <h3 class="Titre">Chemise pour enfant</h3>
+                    <h3 class="Prix"></h3>
+                    <div class="Panier">
+                        <a href="Ajouter au panier.html"><input type="submit" name="Ajouter" value="Ajouter au panier"class="ABAH"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="H1">
+                <img src="ENFANTS/E5.jpg" alt="Chemise" height="20%" width="50%">
+                <div class="H1Titre">
+                    <h3 class="Titre">Chemise pour enfant</h3>
+                    <h3 class="Prix"></h3>
+                    <div class="Panier">
+                        <a href="Ajouter au panier.html"><input type="submit" name="Ajouter" value="Ajouter au panier"class="ABAH"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="H1">
+                <img src="ENFANTS/E6.jpg" alt="Chemise" height="20%" width="50%">
+                <div class="H1Titre">
+                    <h3 class="Titre">Chemise pour enfant</h3>
+                    <h3 class="Prix"></h3>
+                    <div class="Panier">
+                        <a href="Ajouter au panier.html"><input type="submit" name="Ajouter" value="Ajouter au panier"class="ABAH"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="H1">
+                <img src="ENFANTS/E7.jpg" alt="Chemise" height="20%" width="50%">
+                <div class="H1Titre">
+                    <h3 class="Titre">Chemise pour enfant</h3>
+                    <h3 class="Prix"></h3>
+                    <div class="Panier">
+                        <a href="Ajouter au panier.html"><input type="submit" name="Ajouter" value="Ajouter au panier"class="ABAH"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="H1">
+                <img src="ENFANTS/E8.jpg" alt="Chemise" height="20%" width="50%">
+                <div class="H1Titre">
+                    <h3 class="Titre">Chemise pour enfant</h3>
+                    <h3 class="Prix"></h3>
+                    <div class="Panier">
+                        <a href="Ajouter au panier.html"><input type="submit" name="Ajouter" value="Ajouter au panier"class="ABAH"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="H1">
+                <img src="ENFANTS/E9.jpg" alt="Chemise" height="20%" width="50%">
+                <div class="H1Titre">
+                    <h3 class="Titre">Chemise pour enfant</h3>
+                    <h3 class="Prix"></h3>
+                    <div class="Panier">
+                        <a href="Ajouter au panier.html"><input type="submit" name="Ajouter" value="Ajouter au panier"class="ABAH"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="H1">
+                <img src="ENFANTS/E10.jpg" alt="Chemise" height="20%" width="50%">
+                <div class="H1Titre">
+                    <h3 class="Titre">Chemise pour enfant</h3>
+                    <h3 class="Prix"></h3>
+                    <div class="Panier">
+                        <a href="Ajouter au panier.html"><input type="submit" name="Ajouter" value="Ajouter au panier"class="ABAH"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="H1">
+                <img src="ENFANTS/E3.jpg" alt="Chemise" height="20%" width="50%">
+                <div class="H1Titre">
+                    <h3 class="Titre">Chemise pour enfant</h3>
+                    <h3 class="Prix"></h3>
+                    <div class="Panier">
+                        <a href="Ajouter au panier.html"><input type="submit" name="Ajouter" value="Ajouter au panier"class="ABAH"></a>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+
+    </div>
+
+
+    <hr>
+    <hr>
+    <hr>
+    <hr>
+    <hr>
+
+    <!--La partie footer de notre page-->
+
+   
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h1 class="L">SPEEDSHOP</h1>
+                        <p class="A">128,Liberté 5- Dakar Senegal</p>
+                        <p class="C">Appelez-nous : +221773545672</p>
+                        <p class="E">Email : Speedshop@gmail.com</p>
+                
+                </div>
+                <div class="footer-col">
+                    <div class="footer-col-cont">
+                        <h4> <a href="#">Contact us</a> </h4>
+                       <p><i class="fab fa-facebook"></i></p>
+                       <p><i class="fab fa-twitter-square"></i></p>
+                       <p><i class="fab fa-instagram"></i></p>
+                    </div>
+                    
+                </div>
+           
+            </div>
+        </div>
+    </footer>
+
+    <div class="Pied2">
+        <h2 class="TDR">Tout droit réservé &copy;2021 SPEEDSHOP Designed by <span>Tetsuu</span></h2>
+    </div>
+    
+</body>
+</html>
