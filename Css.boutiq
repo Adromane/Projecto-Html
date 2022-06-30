@@ -1,0 +1,44 @@
+
+body{
+    background: url("Images/Body.jpg");
+    background-size: cover;
+    min-height: 90px;
+    background-attachment: fixed;
+}
+
+
+.Tete{
+    background: black;
+    width: 102%;
+    height: 500%;
+}
+
+.Navigation{
+    min-height: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.Navigation,ul{
+    display: flex;
+    flex: 1 1 40rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+.Logo{
+    flex: 2 1 40rem;
+    font-weight: normal;
+    color: white;
+}
+
+.Debut,li,a{
+    color: white;
+    text-decoration: none;
+    display: flex;
+    flex: 2 2 40rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
