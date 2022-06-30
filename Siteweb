@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<HTML>
+       <HEAD>
+         <TITRE BENVENU MON PREMIER SITE</TITRE>
+         <link rel= "stylesheet" href=""/>
+		 <META CHARSET=UTF-8/>
+     
+       </HEAD>
+		 
+       <BODY bgcolor="red">
+		 
+         
+		      <marquee><H1>Benvenue sur notre page web</h1></marquee>
+		        
+				<p> 
+				<!--création de liste non ordonnées-->
+				    <ul>
+					  <a href="Accueil.html"><li>Accueil</li></a>
+					  <a href="Historique.html"><li>Historique</li></a>
+					  <a href="Contact.html"><li>Contact</li></a>
+					 
+					</ul>
+				</p>
+			    
+				<hr>
+			    
+				<p>
+				je suis une etudiante <br>de l'ucao
+				j'aime la<br> programation web
+			    </p>
+		 
+		 
+		 
+		  </body>
+		<html>
